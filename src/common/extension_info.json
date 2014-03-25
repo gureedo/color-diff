@@ -1,0 +1,11 @@
+{
+    "content_scripts": [
+        "main.js"
+    ], 
+    "description": "Colored diff files", 
+    "creator": "gureedo", 
+    "background_scripts": [], 
+    "homepage_url": "https://github.gureedo.com/", 
+    "version": "1.0.0", 
+    "name": "color-diff"
+}
