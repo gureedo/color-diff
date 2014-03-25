@@ -5,7 +5,7 @@
     "description": "Colored diff files", 
     "creator": "gureedo", 
     "background_scripts": [], 
-    "homepage_url": "https://github.gureedo.com/", 
+    "homepage_url": "https://github.com/gureedo/color-diff", 
     "version": "1.1.0", 
     "name": "color-diff"
 }
